@@ -1,0 +1,115 @@
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\bin\Debug\Jawly_Design4.exe.config
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\bin\Debug\Jawly_Design4.exe
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\bin\Debug\Jawly_Design4.pdb
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.AssemblyReference.cache
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.SuggestedBindingRedirects.cache
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form1.resources
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Properties.Resources.resources
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.GenerateResource.cache
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CoreCompileInputs.cache
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.exe
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.pdb
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_MainPage.resources
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_OrderShipping.resources
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EstimatedCost.resources
+D:\Documents\ISB_2\AD\ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_Vouchers.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\bin\Debug\Jawly_Design4.exe.config
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\bin\Debug\Jawly_Design4.exe
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\bin\Debug\Jawly_Design4.pdb
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.Form1.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EstimatedCost.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.Form_MainPage.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.Form_OrderShipping.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.Form_Vouchers.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.Properties.Resources.resources
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.exe
+\\Mac\Home\Downloads\ALP_Jawly_Kelompok 3-1\250523\Jawly_Design4\obj\Debug\Jawly_Design4.pdb
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.exe
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.pdb
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\bin\Debug\Jawly_Design4.exe.config
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\bin\Debug\Jawly_Design4.exe
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\bin\Debug\Jawly_Design4.pdb
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Form1.resources
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EstimatedCost.resources
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Form_MainPage.resources
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Form_OrderShipping.resources
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Form_Vouchers.resources
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Jawly_Design4 (1)\Jawly_Design4\obj\Debug\Jawly_Design4.Form_SavedAddresses.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\Jawly_Design4.exe.config
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\Jawly_Design4.exe
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\Jawly_Design4.pdb
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.AssemblyReference.cache
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.SuggestedBindingRedirects.cache
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form1.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EstimatedCost.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_MainPage.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_OrderShipping.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_SavedAddresses.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_Vouchers.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Properties.Resources.resources
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.GenerateResource.cache
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CoreCompileInputs.cache
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.exe
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.pdb
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\MySql.Data.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\Google.Protobuf.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\ZstdNet.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\System.Buffers.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\bin\Debug\MySql.Data.xml
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.exe.config
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CopyComplete
+D:\Documents\ISB_2\AD\0ALP\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EditAddress.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\Jawly_Design4.exe.config
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\Jawly_Design4.exe
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\Jawly_Design4.pdb
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\MySql.Data.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\Google.Protobuf.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\ZstdNet.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\System.Buffers.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\bin\Debug\MySql.Data.xml
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.AssemblyReference.cache
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.exe.config
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form1.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EditAddress.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_MainPage.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_OrderShipping.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_SavedAddresses.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_Vouchers.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Properties.Resources.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.GenerateResource.cache
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.csproj.CopyComplete
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.exe
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.pdb
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.First_Form.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Login_Page.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.SignUp_Page.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.History_Page.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_ShippingRates.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_SavedAddress_Main.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_Tracking.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_EditAccount.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_PickUpTime.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_ResiTransaksi.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_History.resources
+C:\Users\windows 10\OneDrive\Documents\Jawly_Design4\obj\Debug\Jawly_Design4.Form_HistoryDetails.resources
